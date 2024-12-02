@@ -18,7 +18,7 @@ nltk.download('vader_lexicon')
 nltk.download('punkt_tab')
 
 # Your YouTube API key
-DEVELOPER_KEY = "AIzaSyCaVm9vG9yWNgd1xPn6899IIblPIWJweeY"
+DEVELOPER_KEY = "YOUR DEVELOPER KEY"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
